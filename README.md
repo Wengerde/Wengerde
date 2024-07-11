@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patrick Goldschmidt
+- 👋 Hi, I’m @Patrick
 - 👀 I’m interested in Frontend and Backend programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
